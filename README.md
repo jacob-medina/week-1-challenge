@@ -12,5 +12,12 @@ The aim of this project was to refactor some starter code, which did not use sem
 ## Usage
 A user may click on any of the links on the navigation menu to be brought down to their corresponding section.
 
+## Code Source
+The two files that were edited in this project were `index.html` and `style.css`.
+
+These files can be found through the following path (from root):
+- `index.html`
+- `/assets/css/style.css`
+
 ## Credits
-Code base created by edX Boot Camps LLC.
+Starter code created by edX Boot Camps LLC.
