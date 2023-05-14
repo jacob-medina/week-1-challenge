@@ -5,7 +5,7 @@
 
 This project is a landing page mockup for a hypothetical company called Horiseon Marketing, which helps business market themselves online with powerful techniques.
 
-![Final look of the landing page](/assets/images/final-landing-page.png)
+![Final look of the landing page](/assets/images/live-website.png)
 
 The aim of this project was to refactor some starter code, which did not use semantic HTML elements or efficient CSS selectors. The look of the landing page is exactly the same as it began, but the accesibility has been increased dramatically.
 
@@ -13,3 +13,4 @@ The aim of this project was to refactor some starter code, which did not use sem
 A user may click on any of the links on the navigation menu to be brought down to their corresponding section.
 
 ## Credits
+Code base created by edX Boot Camps LLC.
